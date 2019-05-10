@@ -9,7 +9,7 @@ import com.relevantcodes.extentreports.ExtentTest;
 @SuppressWarnings("unused")
 public class ContactScreen extends BaseClass {
 	
-	public static String primaryInfo  = "{\"user_id\":7,\"is_generate\":false,\"is_execute\":false,\"is_web\":true,\"project_url\":\"https://devrabbit.com\",\"report_upload_url\":\"https://192.168.1.142:8080/UploadReportFile\",\"project_name\":\"UpdatedJARs\",\"project_description\":\"desc\",\"project_id\":290,\"module_name\":\"web\",\"module_description\":\"desc\",\"sub_module_id\":0,\"module_id\":439,\"testcase_name\":\"TC1\",\"testcase_id\":471,\"testset_id\":0,\"executed_timestamp\":-1589121444,\"browser_type\":\"chrome\"}";
+	public static String primaryInfo  = "{\"user_id\":7,\"is_generate\":false,\"is_execute\":false,\"is_web\":true,\"project_url\":\"https://devrabbit.com\",\"report_upload_url\":\"https://192.168.1.142:8080/UploadReportFile\",\"project_name\":\"UpdatedJARs\",\"project_description\":\"desc\",\"project_id\":290,\"module_name\":\"web\",\"module_description\":\"UPDATEDdesc\",\"sub_module_id\":0,\"module_id\":439,\"testcase_name\":\"TC1\",\"testcase_id\":471,\"testset_id\":0,\"executed_timestamp\":-1587914351,\"browser_type\":\"chrome\"}";
 
 	public static String projectName = "updatedjars";
 	public WebDriver driver;
